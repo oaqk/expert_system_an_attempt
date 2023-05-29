@@ -5,7 +5,7 @@ pyDatalog.create_terms('rock, alt_rock, hard_rock, heavy_metal, doom_metal, hard
 pyDatalog.create_terms('screamo, acid_rock, math_rock, progressive_rock, psychedelic_rock, space_rock, shoegaze')
 pyDatalog.create_terms('grunge, new_wave, hands_up, freakbeat, sigilkore, deep_internet, goregrind, grindcore')
 
-#makin the data lists
+#making the data lists
 
 gen = [
        rock, alt_rock, hard_rock, heavy_metal, doom_metal, 
